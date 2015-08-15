@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426941140 source:c:\users\jayati\desktop\handouts\nested-hashing-old dsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
